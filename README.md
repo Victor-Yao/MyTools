@@ -1,12 +1,21 @@
 # MyTools
+
 Build and share my tools for debugging, log analysis and etc.
 
-1. ### logparser_cmd.bat
-    A batch file wraps log parser to transfer IIS log to CSV format
+1. ## LogParser Batch
+
+    Use LogParser to convert IIS/FTP log to CSV format
 
     - Prerequsite:  
       Download and install [LogParser](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
 
-    - Clone this batch file.
+    - Clone batch file.
 
-    - Collect IIS logs and drag the foler over script. The csv log files will export to sub folder "ret".
+    - Drag the folder which contants IIS log or FTP log over batch file. The batch file will export csv files to subfolder names "ret".
+
+1. ## Perfmon analysis script
+
+    Analyzes a performance monitor log to provide a generic high level analysis
+    - Clone batch file.
+
+    - Drag the perfmon log over vbs script file. It will save the result in a text file.
