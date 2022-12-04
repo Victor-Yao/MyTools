@@ -7,7 +7,7 @@
 
 1. Add a rule, configure the HTTP sta
 ![](/IIS/images/Freb2.png)
-Input the HTTP status code you want to capture. It supports to input a range of http status code. I use 500 as example.
+**Input the HTTP status code you want to capture**. It supports to input a range of http status code. I use 500 as example.
 ![](/IIS/images/Freb7.png)
 ![](/IIS/images/Freb4.png)
 
