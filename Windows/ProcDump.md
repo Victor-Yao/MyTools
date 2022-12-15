@@ -15,6 +15,8 @@
     Option 2. By Task Manager
 
     ![](/Windows/Images/ManualDump3.png)
-1. Run `procdump -ma -accepteula -s 10 -n 3 PID`
-
+1. Run in command prompt
+    ```bash
+    procdump -ma -accepteula -s 10 -n 3 PID
+    ```
     ![](/Windows/Images/ManualDump5.png)
