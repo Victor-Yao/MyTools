@@ -1,6 +1,6 @@
 # enable WCF Trace log
 
-- Copy and paste below configuration to the WCF configuration file.
+- Copy and paste below configuration to the WCF configuration file of WCF client and WCF server.
 - Make sure the directory of value of initializeData is existed. The directory is **c:\logs** in the example.
 
 ***
