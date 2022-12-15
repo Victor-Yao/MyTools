@@ -1,5 +1,5 @@
 # Capture memory dump by procdump
-1. Download [procdump](!https://learn.microsoft.com/en-us/sysinternals/downloads/procdump)
+1. Download [procdump](https://learn.microsoft.com/en-us/sysinternals/downloads/procdump)
 
 1. Run **command prompt** as Administrator and navigate to procdump.
 
