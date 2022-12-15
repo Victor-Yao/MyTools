@@ -3,7 +3,7 @@
 - Copy and paste below configuration to the WCF configuration file of WCF client and WCF server.
 - Make sure the directory of value of initializeData is existed. The directory is **c:\logs** in the example.
 
-***
+```bash
     <configuration>
         <system.diagnostics>
             <sources>
@@ -58,4 +58,4 @@
             </switches>
         </system.diagnostics>
     </configuration>
-***
+```
