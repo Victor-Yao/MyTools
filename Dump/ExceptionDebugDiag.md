@@ -3,22 +3,22 @@
 
 1. Add a Crash Rule
 
-    ![](/Dump/image/debugdiag1.png)
+    ![](/Dump/images/debugdiag1.png)
 
-    ![](/Dump/image/debugdiag2.png)
+    ![](/Dump/images/debugdiag2.png)
 
-    ![](/Dump/image/debugdiag3.png)
+    ![](/Dump/images/debugdiag3.png)
 
-    ![](/Dump/image/debugdiag4.png)
+    ![](/Dump/images/debugdiag4.png)
 
-    ![](/Dump/image/debugdiag5.png)
+    ![](/Dump/images/debugdiag5.png)
 
-    ![](/Dump/image/debugdiag6.png)
+    ![](/Dump/images/debugdiag6.png)
 
-    ![](/Dump/image/debugdiag7.png)
+    ![](/Dump/images/debugdiag7.png)
 
-    ![](/Dump/image/debugdiag8.png)
+    ![](/Dump/images/debugdiag8.png)
 
-    ![](/Dump/image/debugdiag9.png)
+    ![](/Dump/images/debugdiag9.png)
 
 1. Check if any dump files generated in the Userdump path after you see the exception again.
