@@ -3,20 +3,21 @@
 
 1. Run **command prompt** as Administrator and navigate to procdump.
 
-    ![](/Windows/Images/ManualDump1.png)
+    ![](/Dump/Images/ManualDump1.png)
 
 1. Find out the PID of w3wp.exe. Note, I use IIS worker process as example.
 
     Option 1. By IIS Manager
 
-    ![](/Windows/Images/ManualDump2.png)
-    ![](/Windows/Images/ManualDump4.png)
+    ![](/Dump/Images/ManualDump2.png)
+    
+    ![](/Dump/Images/ManualDump4.png)
 
     Option 2. By Task Manager
 
-    ![](/Windows/Images/ManualDump3.png)
+    ![](/Dump/Images/ManualDump3.png)
 1. Run in command prompt
     ```bash
     procdump -ma -accepteula -s 10 -n 3 PID
     ```
-    ![](/Windows/Images/ManualDump5.png)
+    ![](/Dump/Images/ManualDump5.png)
