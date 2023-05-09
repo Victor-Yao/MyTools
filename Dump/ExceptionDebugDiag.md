@@ -3,7 +3,7 @@
 
 1. Add a Crash Rule
 
-    ![](/Dump/images/debugdiag1.png)
+    ![](/Dump/Images/debugdiag1.png)
 
     ![](/Dump/Images/debugdiag2.png)
 
