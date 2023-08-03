@@ -1,8 +1,8 @@
-# Capture memory dump by procdump
+# Capture process IO trace by procmon
 
 1. Download [Procmon](https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon)
 
-1. Launch Promon.exe as adminstator and reset filter.
+1. Launch **procmon.exe** as adminstator and reset filter.
 
     ![](/Windows/Images/procmon1.png)
 
