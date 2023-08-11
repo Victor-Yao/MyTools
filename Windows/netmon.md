@@ -1,4 +1,4 @@
-# Event Trace for Windows Authentication
+# Capture network trace by netmon
 
 1. Download and install [netmon](https://www.microsoft.com/en-us/download/details.aspx?id=4865) on client and server. *(To do below steps on client and server synchronously)*
 
