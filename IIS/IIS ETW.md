@@ -2,18 +2,18 @@
 
 1. Download batch file, [start.bat](/IIS/Scripts/start.bat)
 
-1. Launch commond prompt as **Administrator** and type **start.bat**
+1. Launch commond prompt as **Administrator**, type **start.bat** and press **Enter** to start it.
 
     ![](/IIS/images/IISETW1.png)
 
-1. When it stops on **pause**, Switch to client machine and reproduce issue.
+1. When it stops on **pause**, switch to **reproduction** issue.
 
     ![](/IIS/images/IISETW2.png)
 
-1. Press **Enter** to continue script execution after issue reproduced. 
+1. Then press **Enter** to restore execution.
 
     ![](/IIS/images/IISETW3.png)
 
-1. Wait script execution finish, you should see many etl files in the folder. Zip the folder and upload to workspace.
+1. The script will generate many etl files in the folder when it's done. Zip the folder for sharing.
 
     ![](/IIS/images/IISETW4.png)
