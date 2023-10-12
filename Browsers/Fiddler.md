@@ -1,4 +1,5 @@
 # Collect Fiddler trace for Browsers
+
 1. [Download](https://www.telerik.com/download/fiddler) and [Install](https://docs.telerik.com/fiddler/Configure-Fiddler/Tasks/InstallFiddler) Fiddler
 
 1. Launch **Fiddler**
