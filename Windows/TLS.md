@@ -4,8 +4,8 @@
 
 1. Navigate to download folder and run ``GetConfig_TLS`` in commond prompt with **Admin**
 
-    ![](/Windows/images/TLS1.png)
+    ![picture](/Windows/Images/TLS1.png)
 
 1. Check if files are generated and zip the **reports** folder.
 
-    ![](/Windows/images/TLS2.png)
+    ![picture](/Windows/Images/TLS2.png)
