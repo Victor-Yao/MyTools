@@ -6,9 +6,9 @@
 
 1. Run following command. You can change the RingBufferSize up to 4GB. <br>
 `Procmon /AcceptEula /Minimized /Quiet /PagingFile /RingBufferSize 800`
-<img src="./Images/procmon4.png" alt="procmon4.png" width="500"> <p>
-*Procmon Usage*<p>
-<img src="./Images/procmon5.png" alt="procmon5.png" width="500">
+<img src="./Images/procmon4.png" alt="procmon4.png" width="500"> <br>
+    *Procmon Usage*<br>
+    <img src="./Images/procmon5.png" alt="procmon5.png" width="500">
 
 1. **Reproduce** your issue. <br>
 
