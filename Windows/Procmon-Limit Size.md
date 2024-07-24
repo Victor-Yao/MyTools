@@ -2,7 +2,7 @@
 
 1. Download [Procmon](https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon). <br>
 
-1.  Launch Command Prompt with admin privileges and navigate to the Procmon folder.<br>
+1. Launch Command Prompt with admin privileges and navigate to the Procmon folder.<br>
 
 1. Run following command. You can change the RingBufferSize up to 4GB. <br>
 `Procmon /AcceptEula /Minimized /Quiet /PagingFile /RingBufferSize 800`
