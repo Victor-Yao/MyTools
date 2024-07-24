@@ -13,4 +13,4 @@
 1. **Reproduce** your issue. <br>
 
 1. Save "Logfile.PML" to local disk. <br>
-<img src="./Images/procmon3.png" alt="procmon3.png" width="500">
+    <img src="./Images/procmon3.png" alt="procmon3.png" width="500">
