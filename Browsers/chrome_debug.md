@@ -1,7 +1,7 @@
 # Collect Chrome_debug.log
 
 1. Completedly exits Edge, open it again by **Run** with `msedge.exe --enable-logging --v=1`.<br>
-<img src="./images/chrome_debug.png" alt="chrome_debug.png" width="300">
+    <img src="./images/chrome_debug.png" alt="chrome_debug.png" width="300">
 
 1. Reproduce issue
 
