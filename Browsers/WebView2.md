@@ -2,7 +2,7 @@
 It provides some useful information about Edge WebView2.
 
 ## Find Installed WV2
-1. Download [FindInstalledWV2.ps1](/Browsers/Scripts/FindInstalledWV2.ps1) or copy and paste code them a text file.
+1. Download [FindInstalledWV2.ps1](/Browsers/Scripts/FindInstalledWV2.ps1) or copy and paste code to a text file.
 1. Run `.\FindInstalledWV2.ps1` and check output.
     ```
     ==========================================================================================
